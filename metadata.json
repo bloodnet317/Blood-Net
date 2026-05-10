@@ -1,0 +1,6 @@
+{
+  "name": "Bloodnet",
+  "description": "একটি আধুনিক রক্তদান এবং দাতা ম্যানেজমেন্ট প্ল্যাটফর্ম। প্রাণের টানে রক্তের বন্ধন।",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": []
+}
